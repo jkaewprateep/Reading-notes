@@ -14,3 +14,11 @@ MICROCONTROLLER, PLC, and IoT book 2
 . </br>
 Ref[0]: MICROCONTROLLER, PLC, and IoT book. </br>
 Ref[1]: https://github.com/jkaewprateep/model_stability/blob/main/README.md </br>
+
+<p align="center" width="100%">
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0004.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0008.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0009.jpg"> </br>
+    <img width="40%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0007.jpg"> 
+    <img width="40%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0001.gif">  
+</p>
