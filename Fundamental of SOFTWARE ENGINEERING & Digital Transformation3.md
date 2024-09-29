@@ -23,10 +23,7 @@ Ref[0]: Fundamental of SOFTWARE ENGINEERING & Digital Transformation book </br>
 Ref[1]: https://github.com/jkaewprateep/json_data_set/blob/main/README.md </br>
 
 <p align="center" width="100%">
-    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0020.jpg"> 
-    <img width="35.5%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0021.jpg"> 
-    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0022.jpg"> 
-    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0023.jpg"> </br>
-    <img width="40%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0024.jpg">  
-    <img width="40%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0025.jpg">  
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0026.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0027.jpg"> </br>
+    <img width="40%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0028.jpg"> 
 </p>
