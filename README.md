@@ -28,3 +28,9 @@ Reading notes
 
 ## หนังสือ เรียนรู้การเขียนโปรแกรมผ่านเกมส์ ##
 [Model collision domain]( https://github.com/jkaewprateep/Reading-notes/blob/main/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%20%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C.md ) </br>
+
+## เรียนรู้หลักการ Data Science ด้วย Python ##
+[Function expression]( https://github.com/jkaewprateep/Reading-notes/blob/main/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%20Data%20Science%20%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20Python.md ) </br>
+[Statistics significant and gradient decent]( https://github.com/jkaewprateep/Reading-notes/blob/main/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%20Data%20Science%20%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20Python2.md ) </br>
+[Expression and Lexical density]( https://github.com/jkaewprateep/Reading-notes/blob/main/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%20Data%20Science%20%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20Python3.md ) </br>
+[Logits to perform simple logic tasks]( https://github.com/jkaewprateep/Reading-notes/blob/main/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%20Data%20Science%20%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20Python4.md ) </br>
