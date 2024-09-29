@@ -24,3 +24,11 @@ Generative Deep Learning สอน AI วาดเขียนแต่งเพ
 Ref[0]: Generative Deep Learning สอน AI วาดเขียนแต่งเพลงและเล่นเกมส์ </br>
 Ref[1]: https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/README.md </br>
 Ref[2]: [https://github.com/.../lessonfrom.../blob/main/README.md](https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python/blob/main/README.md) </br>
+
+<p align="center" width="100%">
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0074.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0075.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0076.jpg"> </br>
+    <img width="45%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0077.jpg"> 
+    <img width="30%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0078.jpg">  
+</p>
