@@ -13,3 +13,6 @@ Reading notes
 ## MICROCONTROLLER, PLC, and IoT ##
 [👧💬 🎈 Integration logic gates/activation functions]( https://github.com/jkaewprateep/Reading-notes/blob/main/MICROCONTROLLER%2C%20PLC%2C%20and%20IoT%20book%202.md ) </br>
 [MICROCONTROLLER, PLC, and IoT book]( https://github.com/jkaewprateep/Reading-notes/blob/main/MICROCONTROLLER%2C%20PLC%2C%20and%20IoT%20book.md ) </br>
+
+## Python, PyQT and Pygame ##
+[Python, PyQT and Pygame]( https://github.com/jkaewprateep/Reading-notes/blob/main/Python%2C%20PyQT%20and%20Pygame%20book.md ) </br>
