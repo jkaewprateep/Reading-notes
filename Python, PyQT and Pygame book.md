@@ -12,3 +12,9 @@ Python, PyQT and Pygame book
 . </br>
 Ref[0]: Python, PyQT and Pygame book </br>
 Ref[1]: [https://github.com/.../META---Unity.../blob/main/README.md](https://github.com/jkaewprateep/META---Unity-and-C-basics/blob/main/README.md) </br>
+
+<p align="center" width="100%">
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0001.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0002.jpg"> </br>
+    <img width="40%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0003.jpg">  
+</p>
