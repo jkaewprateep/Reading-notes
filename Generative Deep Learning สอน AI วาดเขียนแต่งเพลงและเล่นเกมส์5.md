@@ -26,10 +26,10 @@ Ref[0]: Generative Deep Learning สอน AI วาดเขียนแต่�
 Ref[1]: https://github.com/jkaewprateep/Remote_devices/blob/main/README.md </br>
 
 <p align="center" width="100%">
-    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0086.jpg"> 
-    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0087.jpg"> 
-    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0088.jpg"> 
-    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0089.jpg"> </br>
-    <img width="30%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0090.jpg">  
-    <img width="69%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0091.jpg">  
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0097.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0098.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0099.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0100.jpg"> </br>
+    <img width="80%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0101.jpg"> </br>
+    <img width="60%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0002.gif">  
 </p>
