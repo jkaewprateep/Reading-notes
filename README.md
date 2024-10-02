@@ -1,5 +1,5 @@
 # Reading-notes
-Reading notes - JIRAYU KAEWPRATEEP ( 2024 Sep, 15 - 2024 Oct, 1 )
+Reading notes - JIRAYU KAEWPRATEEP ( 2024 Sep, 15 - 2024 Oct, 2 )
 
 ## Fundamental of SOFTWARE ENGINEERING & Digital Transformation ##
 [Polymorphism]( https://github.com/jkaewprateep/Reading-notes/blob/main/Fundamental%20of%20SOFTWARE%20ENGINEERING%20%26%20Digital%20Transformation.md ) </br>
