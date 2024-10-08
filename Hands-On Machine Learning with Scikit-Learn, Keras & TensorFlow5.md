@@ -22,7 +22,7 @@ Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow
 ... </br>
 Ref[0]: Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow </br>
 Ref[1]: https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/README.md </br>
-Ref[2]:  </br>
+Ref[2]: https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/README.md </br>
 
 <p align="center" width="100%">
     <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0118.jpg"> 
