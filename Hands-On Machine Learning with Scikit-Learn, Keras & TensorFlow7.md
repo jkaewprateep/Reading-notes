@@ -23,3 +23,13 @@ Ref[2]: StackOverflow - JIRAYU KAEWPRATEEP
 . </br>
 . </br>
 ... </br>
+
+<p align="center" width="100%">
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0128.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0129.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0130.jpg"> </br>
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0131.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0133.jpg"> </br>    
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0132.jpg">      
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0134.jpg"> 
+</p>
