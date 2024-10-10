@@ -19,6 +19,8 @@ Reading notes - JIRAYU KAEWPRATEEP ( 2024 Sep, 15 - 2024 Oct, 2 )
 [ Attention network and transformers ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow3.md ) </br>
 [ Basics TensorFlow - matrix operations ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow4.md ) </br>
 [ Dataset and data transformation ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow5.md ) </br>
+[ PCA linear auto-encoders ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow6.md ) </br>
+[ Features matrixes and edges detection for image processing ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow7.md ) </br>
 
 ## MICROCONTROLLER, PLC, and IoT ##
 [👧💬 🎈 Integration logic gates/activation functions]( https://github.com/jkaewprateep/Reading-notes/blob/main/MICROCONTROLLER%2C%20PLC%2C%20and%20IoT%20book%202.md ) </br>
