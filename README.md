@@ -13,6 +13,9 @@ Reading notes - JIRAYU KAEWPRATEEP ( 2024 Sep, 15 - 2024 Oct, 2 )
 [Buffer noises remover]( https://github.com/jkaewprateep/Reading-notes/blob/main/Generative%20Deep%20Learning%20%E0%B8%AA%E0%B8%AD%E0%B8%99%20AI%20%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C4.md ) </br>
 [Agent environment]( https://github.com/jkaewprateep/Reading-notes/blob/main/Generative%20Deep%20Learning%20%E0%B8%AA%E0%B8%AD%E0%B8%99%20AI%20%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C5.md ) </br>
 
+## AI and Machine Learning for Coders
+[ Features matrixes and edges detection for image processing ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow7.md ) </br>
+
 ## Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow ##
 [ L1, L2 distributions and elastic net ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow.md ) </br>
 [ Tensorboard ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow2.md ) </br>
@@ -20,7 +23,6 @@ Reading notes - JIRAYU KAEWPRATEEP ( 2024 Sep, 15 - 2024 Oct, 2 )
 [ Basics TensorFlow - matrix operations ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow4.md ) </br>
 [ Dataset and data transformation ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow5.md ) </br>
 [ PCA linear auto-encoders ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow6.md ) </br>
-[ Features matrixes and edges detection for image processing ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow7.md ) </br>
 
 ## MICROCONTROLLER, PLC, and IoT ##
 [👧💬 🎈 Integration logic gates/activation functions]( https://github.com/jkaewprateep/Reading-notes/blob/main/MICROCONTROLLER%2C%20PLC%2C%20and%20IoT%20book%202.md ) </br>
