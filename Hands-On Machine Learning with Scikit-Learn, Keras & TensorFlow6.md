@@ -1,5 +1,5 @@
-# Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow5
-Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow5
+# Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow6
+Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow6
 
 [ PCA linear auto-encoders ]: 🧸💬 PCA technique is the same technique when we find a solution and a significant variable for a solution. The PCA linear auto-encoder is a symmetric way to express function and correlation for specific dimensions. </br>
 
