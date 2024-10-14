@@ -15,6 +15,7 @@ Reading notes - JIRAYU KAEWPRATEEP ( 2024 Sep, 15 - 2024 Oct, 10 )
 
 ## AI and Machine Learning for Coders
 [ Features matrixes and edges detection for image processing ]( https://github.com/jkaewprateep/Reading-notes/blob/main/AI%20and%20Machine%20Learning%20for%20Coders.md ) </br>
+[ Tokenizers and word inputs padding ]( https://github.com/jkaewprateep/Reading-notes/blob/main/AI%20and%20Machine%20Learning%20for%20Coders2.md ) </br>
 
 ## Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow ##
 [ L1, L2 distributions and elastic net ]( https://github.com/jkaewprateep/Reading-notes/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%20%26%20TensorFlow.md ) </br>
