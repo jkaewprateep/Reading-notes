@@ -15,7 +15,7 @@
 
 💃( 👩‍🏫 )💬  In settings communication method for backward compatibilities some advertisers also wait for the observer message to select requirement broadcasting and when settings allow for the higher standard security protocol, the previous version of the observer start communication and stop seeking for a new advertiser that is we design on/off button and firmware for previous versions. </br>
 
-🦁💬 In some cases the newer versions should not respond to the previous version if they are not ready but if they are allowed to do so by default they should be fixed by the excluded list automatically by the provided on/off power button or device control the newer version of the communication device. </br>
+🦁💬 In some cases the newer versions should not respond to the previous version if they are not ready but if they are allowed to do so by default they should be fixed by the excluded list automatically by the provided on/off power button or device control the newer version of the communication device.
 ( This is how the exclusion list came from in previous versions ) </br>
 Ref[0]: พัฒนา IoT บนไมโครคอนโทรลเลอร์ ESP 32 ด้วยภาษาไมโครไพตอน </br>
 Ref[1]: https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/README.md ( I had Python code but it is simple for communication TCP/IP, this event listener explains publisher-subscriber ) </br>
