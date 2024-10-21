@@ -20,3 +20,9 @@
 .</br>
 .</br>
 Ref[0]: เรียนรู้ระบบฝังตัวด้วย RASPBERRY PI EMBEDDED SYSTEMS WITH RASPBERRY PI </br>
+
+<p align="center" width="100%">
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0155.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0156.jpg"> 
+    <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0157.jpg"> </br>
+</p>
