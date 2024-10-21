@@ -25,4 +25,5 @@ Ref[0]: เรียนรู้ระบบฝังตัวด้วย RASPB
     <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0155.jpg"> 
     <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0156.jpg"> 
     <img width="20%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0157.jpg"> </br>
+    <img width="60%" src="https://github.com/jkaewprateep/Reading-notes/blob/main/0001.gif">    
 </p>
