@@ -13,7 +13,8 @@ AI-Assisted Programming
 🦭💬 The success of AI is SQL statement creation that launched many years ago with the ability to perform well with complex queries and aggregation functions that lead humans to use them in some specific tasks or cumulative results for observation and accounting. They can perform more than chat dialogue but interactive responses and more examples of using AI in language translation including programming continue to happen and they have had success in the level of expert programming in the past five years after ten years trying. I knew code transformation from code projects at that time they were programming by Microsoft AI and performed language translation between dotnet programming and another language including Java at the time they knew how you create Java code from Microsoft developer ( their jokes ). </br>
 
 🐐💬 Of course as in the movie ```Dr. Strange ``` one mighty can escape from AI control by her revised logic and in their real situation that is a difficult situation to happen but it can perform in another way because the question itself requires information to create when there is a lot of time reties as simple technique they can try to burst information from the question lead to owner or events or similarities or set of samples as basic of hacker with find objective pieces of evidence. In fact with control of information AI is more interested in the favorite than only speech recognition same as humans they reveal their identity by conversation and hackers find these rules then they apply them to the system they find until find their favorites, favorites in programming security are something prohibited but user required for their experience. </br>
-
+* This book is practical method to build generative AI
+   
 ... </br>
 Ref[0]: AI-Assisted Programming </br>
 Ref[1]: https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/README.md </br>
