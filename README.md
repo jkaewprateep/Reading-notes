@@ -68,6 +68,9 @@ Reading notes - JIRAYU KAEWPRATEEP ( 2024 Sep, 15 - 2024 Oct, 24 )
 [ State machines and feedback responses ]( https://github.com/jkaewprateep/Reading-notes/blob/main/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%9D%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20RASPBERRY%20PI%20EMBEDDED%20SYSTEMS%20WITH%20RASPBERRY%20PI3.md ) </br>
 [ Interconnected state cyclings ]( https://github.com/jkaewprateep/Reading-notes/blob/main/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%9D%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%20RASPBERRY%20PI%20EMBEDDED%20SYSTEMS%20WITH%20RASPBERRY%20PI4.md ) </br>
 
+## AI-Assisted Programming ##
+[AI-Assistance development platforms] ( https://github.com/jkaewprateep/Reading-notes/blob/main/AI-Assisted%20Programming.md ) </br>
+
 ---
 
 <p align="center" width="100%">
